@@ -1,0 +1,12 @@
+venv/*
+*/__pycache__/*
+
+*.dll
+*.lib
+*.exp
+*.so
+*.a
+*.obj
+*.pyd
+*.pyd.manifest
+

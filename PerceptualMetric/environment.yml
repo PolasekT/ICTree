@@ -1,0 +1,24 @@
+name: ictree
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.4
+  - h5py
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - progress
+  - pytest
+  - python-dateutil
+  - ruamel.yaml
+  - seaborn
+  - scipy
+  - scikit-learn
+  - setuptools
+  - sqlalchemy
+  - swifter
+  - pytorch>=1.8.1
+  - torchvision
